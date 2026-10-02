@@ -1,3 +1,6 @@
 Operadores
 Lider: Alexy Arevalo
+sumar 2 + 2 = 4
+restar: 2 - 1 = 1
+division: 2/2=1
 multiplicacion:2*2=4
