@@ -1,2 +1,3 @@
 Operadores
 Lider: Alexy Arevalo
+multiplicacion:2*2=4
