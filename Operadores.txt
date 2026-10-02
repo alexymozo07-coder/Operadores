@@ -1,3 +1,4 @@
 Operadores
 Lider: Alexy Arevalo
 sumar 2 + 2 = 4
+restar: 2 - 1 = 1
