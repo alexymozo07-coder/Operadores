@@ -1,2 +1,3 @@
 Operadores
 Lider: Alexy Arevalo
+restar: 2 - 1 = 1
